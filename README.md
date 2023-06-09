@@ -1,6 +1,6 @@
 # viewDBstore2500292
 
-Agradecimientos especiales a Juan Ma. Ruiz
+Agradecimientos especiales a Juan Ma. Ruiz y a nuestro querido y amado instuctor Richard Maurello 
 
 Sencillo ejemplo del patrón MVC con PHP nativo
 Ejemplo de MVC nativo (sin framework) basado en el tutorial de Victor Robles Especial agradecimientos a Juan Ma ruiz
